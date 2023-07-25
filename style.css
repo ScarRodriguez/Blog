@@ -1,0 +1,107 @@
+h1 {
+    text-align: center;
+    color: #A91079;
+    font-size: 95px;
+    font-family: 'Pangolin', cursive;
+}
+
+h2 {
+    text-align: center;
+    color: #590696;
+    padding-top: 5%;
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.menu {
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 1px 10px  #F806CC;
+    margin: 3%;
+}
+
+a {
+    text-decoration:none;
+    padding: 15px;
+    color: #6554AF;
+    font-size: 45px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+p {
+    color: #22A699;
+    font-size: 35px;
+    font-family: 'Indie Flower', cursive;
+    margin: 3%;
+}
+
+h4 {
+    color: #FA558F;
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+.seccion {
+    color: #77037B;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tarjetitas{
+    width: 100%;
+    display: flex;
+    padding: 5px;
+}
+
+.card {
+    width: 100%;
+    height: 300px;
+    margin: 15px;
+    display: flex;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 5px 10px #6FEDD6;
+    border-radius: 10px;
+    transition: 0.1s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 5px 20px  #B3005E; 
+}
+
+.card .img-card {
+    height: 100%;
+    background-size: cover;
+}
+
+.card .content {
+    width: 60%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 50px 150px 50px;
+    padding: 10px 15px;
+}
+
+.card .content .title h3 {
+    color: #6930C3;
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    margin: 0%;
+}
+
+.card .content .title span {
+    color: #1EAE98;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+
+}
+
+.card .content .text p {
+    color: black;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 15px;
+    padding-top: 5%;
+}

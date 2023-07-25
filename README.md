@@ -7,3 +7,4 @@ Este proyecto sonsitió en realizar una página web de tema libre realizada en e
 
 ## Acerca de
 Construí un pequeño blog personal, en donde expliqué un poco acerca de mis gustos en películas, series y música :)
+Utilicé diferentes recursos, como imágenes, iconos y fuentes de google.

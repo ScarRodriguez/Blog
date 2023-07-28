@@ -105,3 +105,15 @@ h4 {
     font-size: 15px;
     padding-top: 5%;
 }
+
+footer {
+    min-height: 100px;
+    background-color: #A91079;
+    text-align: center;
+}
+
+.derechos-de-autor {
+    font-size: 15px;
+    color: white;
+    padding: 50px;
+}
